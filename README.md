@@ -6,9 +6,7 @@ This project utilizes Power Query in Excel to clean and analyze salary data.
 
 📊 Key transformations include:
 
-Duplicate Check: Identifying and handling duplicate entries.
-
-Salary Extraction: Extracting and standardizing salary data.
+Duplicate Check: Identifying and handling duplicate entries. Salary Extraction: Extracting and standardizing salary data.
 
 Role Cleanup: Tidying up job role classifications.
 
